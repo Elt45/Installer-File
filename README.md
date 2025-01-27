@@ -1,2 +1,3 @@
 # Installer-File
-Random Installer file
+A .16 file for download.
+Also available in .32 or .64 format
